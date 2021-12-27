@@ -1,0 +1,22 @@
+p {
+    background-color: gray;
+    font-weight: 900;
+}
+
+.p_pertama {
+    background-color: orange;
+    font-weight: 80;
+}
+
+.p_kedua {
+    background-color: blue;
+    font-weight: 200;
+    color: white;
+}
+
+.p_tiga {
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid;
+    background-color: white;
+    font-weight: 80;
+}
